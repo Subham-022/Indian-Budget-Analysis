@@ -44,6 +44,7 @@ Supports multiple data sources per sheet — upload a replacement Excel file via
 ## 🖼️ Project Preview
 
 ### 🖥️ Dashboard UI
+![Dashboard Preview](dashboard1.png)
 
 
 ---
