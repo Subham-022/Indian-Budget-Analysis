@@ -108,8 +108,8 @@ india-budget-dashboard/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Subham-022/india-budget-dashboard.git
-cd india-budget-dashboard
+git clone https://github.com/Subham-022/Indian-Budget-Analysis.git
+cd Indian-Budget-Analysis
 ```
 
 **2. Install dependencies**
