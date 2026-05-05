@@ -45,6 +45,10 @@ Supports multiple data sources per sheet — upload a replacement Excel file via
 
 ### 🖥️ Dashboard UI
 ![Dashboard Preview](dashboard1.png)
+![Dashboard Preview](dashboard2.png)
+![Dashboard Preview](dashboard3.png)
+![Dashboard Preview](dashboard4.png)
+![Dashboard Preview](dashboard5.png)
 
 
 ---
