@@ -108,7 +108,7 @@ india-budget-dashboard/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/india-budget-dashboard.git
+git clone https://github.com/Subham-022/india-budget-dashboard.git
 cd india-budget-dashboard
 ```
 
